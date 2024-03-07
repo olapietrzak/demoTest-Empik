@@ -50,7 +50,16 @@
             <version>4.13.2</version>
             <scope>compile</scope>
         </dependency>
-
+        <dependency>
+            <groupId>io.github.binance</groupId>
+            <artifactId>binance-connector-java</artifactId>
+            <version>3.2.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.roboquant</groupId>
+            <artifactId>binance-api-client</artifactId>
+            <version>1.0.5</version>
+        </dependency>
 
     </dependencies>
 
